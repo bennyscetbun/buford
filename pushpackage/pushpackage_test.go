@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/RobotsAndPencils/buford/certificate"
-	"github.com/RobotsAndPencils/buford/pushpackage"
+	"github.com/bennyscetbun/buford/certificate"
+	"github.com/bennyscetbun/buford/pushpackage"
 )
 
 func TestNew(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RobotsAndPencils/buford/push"
+	"github.com/bennyscetbun/buford/push"
 )
 
 func TestPush(t *testing.T) {
